@@ -16,7 +16,6 @@ The following software packages are required for this repository.
 * forecast
 * smooth
 * tsDyn
-* 
 
 ### Python Packages
 * nolitsa
